@@ -1,7 +1,7 @@
 # Canon.com/ijsetup
 
 
-[![canon.com/ijsetup](getstarteb.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![canon.com/ijsetup](getstarteb.png)](https://can.printredir.com)
 
 
 **Canon printer setup** instructions and troubleshooting solutions. Do you want to know how to set up the printer and fix its problems? You have reached the right place to get the step by step instructions and simple solutions for most printer problems. Solve the issues and take the printing to the next level using [canon.com/ijsetup](https://c0nijcom.github.io/) support.
